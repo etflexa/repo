@@ -1,2 +1,3 @@
 primeira linha de texto
 o arquivo foi modificado
+linha 3
